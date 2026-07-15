@@ -1,9 +1,5 @@
 # Hi 👋, I'm thousands-li
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thousands-li&label=Profile views&color=0e75b6&style=flat" alt="thousands-li" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thousands-li" alt="thousands-li" /></a> </p>
-
 - 🔭 I'm currently working on **Game-Client**
 
 - 🌱 I'm currently learning **Sharder and Cocos-Creator**
